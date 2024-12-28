@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "usb-c-power-meter")(type "KiCad")(uri "${KIPRJMOD}/usb-c-power-meter.kicad_sym")(options "")(descr ""))
+)
