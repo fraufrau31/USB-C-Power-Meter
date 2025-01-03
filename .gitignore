@@ -1,6 +1,4 @@
-# For PCBs designed using KiCad: https://www.kicad.org/
-# Format documentation: https://kicad.org/help/file-formats/
-
+# KiCad
 # Temporary files
 *.000
 *.bak
@@ -24,6 +22,10 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
+# Manufacturing files
 *.xml
 *.csv
+*.zip
+
+# MPLAB X
+.generated_files
